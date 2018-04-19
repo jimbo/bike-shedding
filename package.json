@@ -1,0 +1,19 @@
+{
+  "name": "bike-shedding",
+  "version": "0.1.0",
+  "description": "A simple bike sharing data dashboard",
+  "author": "Jimmy Sanford <jimbo@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimbo/bike-shedding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimbo/bike-shedding/issues"
+  },
+  "homepage": "https://github.com/jimbo/bike-shedding#readme"
+}
